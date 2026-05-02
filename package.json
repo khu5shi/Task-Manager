@@ -1,0 +1,7 @@
+{
+  "name": "task-manager-root",
+  "private": true,
+  "scripts": {
+    "start": "node backend/server.js"
+  }
+}
